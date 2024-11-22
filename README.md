@@ -23,5 +23,5 @@ This bot tracks trending meme tokens and trades based on various criteria such a
 ## Installation
 
 1. Clone the repository:
-   ```bash git clone https://github.com/your-repository/ultimate-meme-trading-bot.git](https://github.com/solaihub/ultimate-meme-trading-bot.git
-
+   ```bash
+   git clone https://github.com/solaihub/ultimate-meme-trading-bot.git
